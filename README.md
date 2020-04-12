@@ -12,13 +12,14 @@ This program is beta version now!
 配置したファイル・フォルダーを削除してください。  
 
 ## ファイル構成(無いものは作成されます)
-|-AutoBlocker.exe   本体  
-|-BlackList.dict    ブロックされたユーザー名とIDの一覧  
-|-config.ini        クッキーを読み込むブラウザの選択  
-|-Log.txt           ログファイル  
-|-URLBlackList.dict ブロックされたスパムから取得したbit.lyリンクの一覧  
-|-URLGrayList.dict  ブロックされたスパムと思われるユーザー名とそのID、及びそこから取得したbit.lyリンクの一覧  
-|-WhiteList.dict    処理対象としてとして除外するユーザー名とIDの一覧  
+|-AutoBlocker.exe &ensp; 本体  
+|-BlackList.dict &emsp; &nbsp; &nbsp; ブロックされたユーザー名とIDの一覧  
+|-config.ini &emsp; &emsp; &ensp; &nbsp; クッキーを読み込むブラウザの選択  
+|-Log.txt &emsp; &emsp; &emsp; &ensp; &nbsp; ログファイル  
+|-Readme.txt &emsp; &emsp; &nbsp; 説明書  
+|-URLBlackList.dict &nbsp; ブロックされたスパムから取得したbit.lyリンクの一覧  
+|-URLGrayList.dict &ensp; ブロックされたスパムと思われるユーザー名とそのID、及びそこから取得したbit.lyリンクの一覧  
+|-WhiteList.dict &emsp; &nbsp; 処理対象としてとして除外するユーザー名とIDの一覧  
 
 .dictファイルは、同じ構成であれば手動で調整することも可能です。  
 
