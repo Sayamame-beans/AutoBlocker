@@ -54,4 +54,5 @@ This program uses pytblocklib (copyright 2020 taizan-hokuto URL: https://github.
 
 ## 更新履歴
 2020/04/11 Ver.0.1.0 ツール完成(ベータ版)<br>
-2020/04/14 Ver.0.2.0 入力を配信IDから配信URLに変更。内部処理を一部変更。
+2020/04/14 Ver.0.2.0 入力を配信IDから配信URLに変更。内部処理を一部変更。<br>
+2020/04/15 Ver.0.2.1 位置ずれ問題に対応するため、GUIを調整しました。
